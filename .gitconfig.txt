@@ -1,0 +1,8 @@
+[user]
+	name = Jesus Macias
+	email = jesusmaciasbenitez@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
